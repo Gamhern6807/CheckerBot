@@ -6,7 +6,7 @@ Puedes contactar con el autor del codigo original(https://telegram.me/MrBankerBo
 ## Paso1:
 Ve a BotFather dale en crear un bot, copeas el token en el momento de la implementacion 
 ___
-Nota necesitas actualizar la API constantemente para tenerlo funcional
+Nota necesitas actualizar la API constantemente actualizada para tenerlo funcional
 ___
 
 ## Haga clic debajo del botón de implementación para alojarlo en heroku.
